@@ -1,0 +1,15 @@
+E:\HakerRankPractice\MiniMaxSumApp\bin\Debug\net7.0\MiniMaxSumApp.exe
+E:\HakerRankPractice\MiniMaxSumApp\bin\Debug\net7.0\MiniMaxSumApp.deps.json
+E:\HakerRankPractice\MiniMaxSumApp\bin\Debug\net7.0\MiniMaxSumApp.runtimeconfig.json
+E:\HakerRankPractice\MiniMaxSumApp\bin\Debug\net7.0\MiniMaxSumApp.dll
+E:\HakerRankPractice\MiniMaxSumApp\bin\Debug\net7.0\MiniMaxSumApp.pdb
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.csproj.AssemblyReference.cache
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.AssemblyInfoInputs.cache
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.AssemblyInfo.cs
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.csproj.CoreCompileInputs.cache
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.dll
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\refint\MiniMaxSumApp.dll
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.pdb
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\MiniMaxSumApp.genruntimeconfig.cache
+E:\HakerRankPractice\MiniMaxSumApp\obj\Debug\net7.0\ref\MiniMaxSumApp.dll
